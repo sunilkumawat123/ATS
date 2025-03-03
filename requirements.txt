@@ -1,5 +1,14 @@
+# streamlit 
+# google-generativeai 
+# python-dotenv 
+# pdf2image 
+# reportlab
+# dotenv
+# PyPDF2
+
 streamlit 
+PyPDF2
 google-generativeai 
 python-dotenv 
 pdf2image 
-poppler-utils
+reportlab
