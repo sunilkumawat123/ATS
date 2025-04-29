@@ -1,14 +1,18 @@
-# streamlit 
-# google-generativeai 
-# python-dotenv 
-# pdf2image 
-# reportlab
-# dotenv
-# PyPDF2
-
 streamlit 
 PyPDF2
 google-generativeai 
 python-dotenv 
 pdf2image 
 reportlab
+# deepface 
+openai-whisper 
+transformers 
+moviepy
+youtube-transcript-api
+
+# requests
+# speechrecognition
+# streamlit-mic-recorder
+# pydub
+# librosa
+# numpy
